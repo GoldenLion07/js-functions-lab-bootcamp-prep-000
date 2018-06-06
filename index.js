@@ -1,5 +1,5 @@
 function happyHolidays(string) {
-  return(happyHolidays(string) === "Happy holidays!")
+  return("Happy holidays!")
 }
 function happyHolidaysTo(name) {
   return(happyHolidaysTo(name) === `Happy holidays, ${name}!`)
