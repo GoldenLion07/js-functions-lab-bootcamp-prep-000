@@ -7,7 +7,7 @@ function happyHolidaysTo(name) {
 function happyHolidayTo(holiday, name){
   return(`Happy ${holiday} to ${name}!`)
   if (holiday){
-     happyHolidayTo('Happy Independance Day, You!') === happyHolidayTo('Happy Independance Day, You!') 
+     happyHolidayTo('Happy Independance Day, You!') === happyHolidayTo('Happy Independance Day to You!') 
   }
   }
 function holidayCountdown( holiday, days) {
